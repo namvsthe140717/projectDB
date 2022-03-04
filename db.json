@@ -5,6 +5,7 @@
       "password": "123456789"
     }
   ],
+  
   "game": [
     {
       "id": 1,
@@ -15,6 +16,7 @@
       "name": "snake"
     }
   ],
+  
   "score": [
     {
       "gameId": 1,

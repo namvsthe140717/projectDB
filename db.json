@@ -1,11 +1,30 @@
 {
-  "posts": [
+  "user": [
     {
-      "id": 1,
-      "title": "hello"
+      "username": "thanhnam180920",
+      "password": "123456789"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "game": [
+    {
+      "id": 1,
+      "name": "flappy bird"
+    },
+    {
+      "id": 2,
+      "name": "snake"
+    }
+  ],
+  "score": [
+    {
+      "gameId": 1,
+      "user": "thanhnam180920",
+      "score": 100
+    },
+    {
+      "gameId": 2,
+      "user": "thanhnam180920",
+      "score": 200
+    }
+  ]
 }

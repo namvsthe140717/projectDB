@@ -17,13 +17,25 @@
   ],
   "score": [
     {
-      "gameId": 1,
-      "user": "thanhnam180920",
+      "game": {
+        "id": 1,
+        "name": "flappy bird"
+      },
+      "user": {
+        "username": "thanhnam180920",
+        "password": "123456789"
+      },
       "score": 100
     },
     {
-      "gameId": 2,
-      "user": "thanhnam180920",
+      "game": {
+        "id": 2,
+        "name": "snake"
+      },
+      "user": {
+        "username": "thanhnam180920",
+        "password": "123456789"
+      },
       "score": 200
     }
   ]

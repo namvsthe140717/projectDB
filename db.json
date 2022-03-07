@@ -3,36 +3,18 @@
     {"username": "thanhnam180920", "password": "123456789"}
   ],
   "Game": [
-    {
-      "id": 1,
-      "name": "flappy bird"
-    },
-    {
-      "id": 2,
-      "name": "snake"
-    }
+    { "id": 1, "name": "flappy bird" },
+    { "id": 2, "name": "snake"}
   ],
   "Score": [
     {
-      "game": {
-        "id": 1,
-        "name": "flappy bird"
-      },
-      "user": {
-        "username": "thanhnam180920",
-        "password": "123456789"
-      },
+      "game": { "id": 1, "name": "flappy bird" },
+      "user": { "username": "thanhnam180920", "password": "123456789" },
       "score": 100
     },
-    {
-      "game": {
-        "id": 2,
-        "name": "snake"
-      },
-      "user": {
-        "username": "thanhnam180920",
-        "password": "123456789"
-      },
+    { 
+      "game": { "id": 2, "name": "snake"},
+      "user": { "username": "thanhnam180920", "password": "123456789" },
       "score": 200
     }
   ]

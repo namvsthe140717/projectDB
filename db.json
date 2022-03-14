@@ -1,7 +1,8 @@
 {
-  "User":
+  "User": [
     { "username": "thanhnam180920", "password": "123456789" },
-    { "username": "thanhnam", "password": "123456789" },
+    { "username": "thanhnam", "password": "123456789" }
+  ],
   "Game": [
     { "id": 1, "name": "flappy bird" },
     { "id": 2, "name": "snake"}

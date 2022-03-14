@@ -1,14 +1,9 @@
 {
-  "User": [
-    { "username": "thanhnam180920", "password": "123456789" },
-    { "username": "junjin", "junjin" }
-  ],
-  
+  "User": { "username": "thanhnam180920", "password": "123456789" },
   "Game": [
     { "id": 1, "name": "flappy bird" },
     { "id": 2, "name": "snake"}
   ],
-  
   "Score": [
     {
       "game": { "id": 1, "name": "flappy bird" },

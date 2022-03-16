@@ -1,7 +1,7 @@
 {
   "User": [
-    { "username": "thanhnam180920", "password": "123456789", "firstname": "thanh", "lastname": "name", "email": "thanhnam180920@gmail.com" },
-    { "username": "thanhnam", "password": "123456789", "firstname": "thanh", "lastname": "name", "email": "thanhnam180920@gmail.com" }
+    { "id":1, "username": "thanhnam180920", "password": "123456789", "firstname": "thanh", "lastname": "name", "email": "thanhnam180920@gmail.com" },
+    { "id":2, "username": "thanhnam", "password": "123456789", "firstname": "thanh", "lastname": "name", "email": "thanhnam180920@gmail.com" }
   ],
   "Game": [
     { "id": 1, "name": "flappy bird" },
